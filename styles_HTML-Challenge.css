@@ -14,22 +14,25 @@ body {
     width: 350px;
     font-family:Helvetica;
     text-align: center;
-
+}
 .box{
-    border: outline-offset: ; rgb(0, 0, 0); 
+    border: outline-offset; rgb(0, 0, 0); 
     background: rgb(137, 242, 158);    
     font-family:Helvetica;
+    padding: 10px auto;
+    margin: 10px auto;
     text-align: center;
-    width: 500px;
+    width:200px;
     
 }
 
 .Total{
     background: rgb(240, 46, 46);    
-    padding: 10px auto;
+    padding: 20px auto;
     margin: 10px auto; 
     font-family:Helvetica;
     text-align: center;
     color: white;
+    width: 200px;
 
 }
